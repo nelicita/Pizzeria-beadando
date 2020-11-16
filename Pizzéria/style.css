@@ -1,0 +1,88 @@
+.row{
+	margin-bottom: 20px;
+    border-bottom: 2px solid #626262;
+    padding-bottom: 40px;
+    padding-top: 40px;
+
+}
+
+.honappizza{
+    width: 300px;
+    height: 210px;
+    background-image: url("calzone.png");
+    background-size:cover;
+    background-position:center;
+    margin: auto;
+}
+#hatter{
+	background-color:lightgrey;
+}
+.ertekeles{
+    width: 25%;
+    float: left;
+    margin-top: 40px;
+}
+.kosar{
+    width: 15%;
+    float: left;
+    margin-top: 40px;
+}
+.nev{
+    width: 100%;
+    float: left;
+    margin-top: 30px;
+}
+.image
+{
+    width: 300px;
+    height: 300px;
+    background-color: gray;
+    margin: auto;
+    border: 1px solid black;
+    margin-top: 10px;
+    background-size: cover;
+    background-position: center;
+}
+#img_holder{
+    width: 60%;
+    margin: auto;	
+}
+body{
+	background-image: url("olaszzászló.jpg");
+	background-size: contain;
+}
+.navbar-nav{
+	margin: auto;
+	font-size: 25px;
+}
+.navbar-brand{
+	font-variant: small-caps;
+	font-size: 30px;
+}
+#ikon{
+	width: 50px;
+}
+.div{
+	clear: both;
+	margin-bottom: 20px;
+}
+.kepek{
+	margin-right: 20px;
+	float: left;
+	margin-bottom: 20px;
+}
+.szoveg{
+	float: left;
+}
+.kepek img{
+	width: 353px;
+	height: 253px;
+}
+.button{
+	background-color: lightgreen;
+	text-align: center;
+	font-weight: bold;
+}
+//*{
+	border: 1px solid red;
+}
